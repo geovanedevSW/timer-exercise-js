@@ -1,28 +1,26 @@
-# Study Timer
+# Timer Exercise JS
 
-A simple and elegant digital timer built with **React** to help you organize study sessions and manage time efficiently. Ideal for techniques like **Pomodoro**, reviewing materials, or any activity that requires focused time tracking.
+Um timer digital criado para ajudar a organizar sessões de estudo. Ele exibe horas, minutos e segundos e permite iniciar, pausar e reiniciar a contagem.
 
----
+## Preview
 
-## Features
+![Tela do timer]((https://prnt.sc/hYkY5-CVfF8b))
 
-- Displays **hours, minutes, and seconds** clearly.
-- **Start, pause, and reset** controls for easy time management.
-- **Minimalist and clean design** for better focus.
-- Responsive and lightweight React component.
+## Funcionalidades
 
----
+- Exibição do tempo em horas, minutos e segundos
+- Controles para iniciar, pausar e reiniciar o timer
 
-## Demo
+## Tecnologias
 
-![Study Timer Screenshot]((https://img.lightshot.app/vSgZDQCfS3KnCRglpvUm_w.png))  
-*(Replace with your own screenshot or animated GIF of the timer)*
+- HTML
+- CSS
+- JavaScript
 
----
+## Como executar
 
-## Installation
+Abra o arquivo `index.html` no navegador.
 
-1. Clone this repository:
+## Sobre o projeto
 
-```bash
-git clone https://github.com/yourusername/study-timer.git
+Este projeto foi desenvolvido durante meus estudos de programação para praticar a criação de uma interface e a implementação de um timer.
